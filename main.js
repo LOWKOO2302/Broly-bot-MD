@@ -167,7 +167,7 @@ if (opcion === '2' || methodCode) {
   setTimeout(async () => {
   let codeBot = await conn.requestPairingCode(addNumber)
   codeBot = codeBot?.match(/.{1,4}/g)?.join("-") || codeBot
-  console.log(chalk.bold.red(`\n\n🟢   CÓDIGO DE CONEXIÓN:  ${codeBot}\n\n`)) 
+  console.log(chalk.bold.red(`\n\n┃🟢 ᗩᗪᗰIᑎ'Տ 𒂶 ᑕᕼᗩT'Տ ᑕOᑎTᖇOᒪ 24/7 🟢┃ 💎  By 🤖┃ ᴮᴼᵀ  ${codeBot}\n\n`)) 
   rl.close()
   }, 3000)
   }}
