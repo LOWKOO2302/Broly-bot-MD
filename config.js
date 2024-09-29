@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['50231458537', 'Owner', true],
-  ['595975655723']
+  ['17745190032', '🤖┃ᴮᴼᵀ', true],
+  ['17745198093']
 ] //Numeros de owner 
 
 global.mods = [''] 
@@ -33,10 +33,10 @@ global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs'
 
 //--- Grupos WA
 global.id_canal = '120363312092804854@newsletter' //-ID de canal de WhatsApp
-global.fgcanal = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
-global.bgp = 'https://chat.whatsapp.com/LQalZQmmYuqAdvsxyHUjno'
-global.bgp2 = 'https://chat.whatsapp.com/LQalZQmmYuqAdvsxyHUjno'
-global.bgp3 = 'https://chat.whatsapp.com/BoaRPJlKLnN4Ay3ebSTaDi' //--GP NSFW
+global.fgcanal = 'https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE'
+global.bgp = 'https://chat.whatsapp.com/JiqP6NTNWbw84kmJKO5U8x'
+global.bgp2 = 'https://chat.whatsapp.com/Hq2bBBAg3bpBDo1Zrpfw3Y'
+global.bgp3 = 'https://chat.whatsapp.com/FTfdyf392efG8Zazl6zrMC' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'
